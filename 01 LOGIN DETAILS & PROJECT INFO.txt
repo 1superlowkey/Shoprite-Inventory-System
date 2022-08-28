@@ -1,5 +1,5 @@
 
-ALABI SAMUEL BORTEY
+
 **Database Name: inventorymgcsharp**
 
 **Developed by ALABI SAMUEL**
