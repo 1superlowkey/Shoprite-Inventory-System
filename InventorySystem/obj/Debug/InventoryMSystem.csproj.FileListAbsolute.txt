@@ -1,0 +1,74 @@
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\bin\Debug\InventorySystem.exe.config
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\bin\Debug\InventorySystem.exe
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\bin\Debug\InventorySystem.pdb
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventoryMSystem.csprojResolveAssemblyReference.cache
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.Admin_home.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.Confirm.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.Home.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.Login.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.Manager_home.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.MyOrders.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystem.Properties.Resources.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.SignUp.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.UserControl1.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystemCsharp.User_list.resources
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventoryMSystem.csproj.GenerateResource.Cache
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventoryMSystem.csproj.CoreCompileInputs.cache
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystem.exe
+F:\codeastro\C#\Inventory-management-system\TinaliAutoLight\obj\Debug\InventorySystem.pdb
+F:\codeastro\C#\Inventory-management-system\InventorySystem\bin\Debug\InventorySystem.exe.config
+F:\codeastro\C#\Inventory-management-system\InventorySystem\bin\Debug\InventorySystem.exe
+F:\codeastro\C#\Inventory-management-system\InventorySystem\bin\Debug\InventorySystem.pdb
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventoryMSystem.csprojResolveAssemblyReference.cache
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.Admin_home.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.Confirm.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.Home.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.Login.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.Manager_home.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.MyOrders.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.SignUp.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.UserControl1.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystemCsharp.User_list.resources
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventoryMSystem.csproj.GenerateResource.Cache
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventoryMSystem.csproj.CoreCompileInputs.cache
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystem.exe
+F:\codeastro\C#\Inventory-management-system\InventorySystem\obj\Debug\InventorySystem.pdb
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.exe
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.pdb
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csprojResolveAssemblyReference.cache
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Admin_home.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Confirm.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Home.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Login.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Manager_home.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.MyOrders.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.SignUp.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.UserControl1.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.User_list.resources
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.GenerateResource.Cache
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.CoreCompileInputs.cache
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.exe
+F:\codeastro\C#\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Admin_home.resources
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Confirm.resources
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Home.resources
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Login.resources
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.Manager_home.resources
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.MyOrders.resources
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.SignUp.resources
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.UserControl1.resources
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystemCsharp.User_list.resources
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventoryMSystem.csproj.CopyComplete
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\user\Downloads\Telegram Desktop\ShopriteInventoryManagementSystem\InventoryManagementSystem\InventorySystem\obj\Debug\InventorySystem.pdb
